@@ -1,0 +1,44 @@
+/*Encabezado principal */
+header{
+    background-color: #E6E6E6;
+    nav-down: auto;
+}
+/*Imagen de batman*/
+.centrado{
+    margin:10px auto;
+    display:block;
+    size: 100px;  
+}
+/* Encabezado 1*/
+h1{
+    font-family: 'Times New Roman';
+    font-size: 35px;
+    background-color:#C4C4C4;
+    color: #005677;
+    font-weight: 700;
+    text-align: center;
+                
+}
+/*Encabezado 2*/
+h2{
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    background-color: #C4C4C4;
+    color: #005677;
+
+}
+/*Parrafo*/
+p{
+    font-family:'Times New Roman';
+    font-size: 15px;
+}
+/*Pie de pagina*/
+footer{
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    text-align: center;
+    background-color: #005677;
+    color:white ;
+    
+}
+
