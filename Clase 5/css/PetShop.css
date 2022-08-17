@@ -14,7 +14,8 @@ position: absolute;
     left: calc(50% - 138px/2 - 353px);
     top: 4px;
     
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 10px;
@@ -28,7 +29,8 @@ height: 12px;
 left: calc(50% - 36px/2 + 388px);
 top: 4px;
 
-font-family: 'Roboto';
+font-family: 'Roboto', sans-serif;
+
 font-style: normal;
 font-weight: 400;
 font-size: 10px;
@@ -45,7 +47,8 @@ height: 12px;
 left: calc(50% - 26px/2 + 439px);
 top: 4px;
 
-font-family: 'Roboto';
+font-family: 'Roboto', sans-serif;
+
 font-style: normal;
 font-weight: 400;
 font-size: 10px;
@@ -73,4 +76,43 @@ left: calc(50% - 5.5px/2 + 457.25px);
 top: 9px;
 
 border: 1px solid #F3F3F3;
+}
+#Rectangle3{
+    position: absolute;
+width: 1024px;
+height: 62px;
+left: calc(50% - 1024px/2);
+top: 20px;
+
+background: #F0A83E;
+}
+#Front{
+    position: absolute;
+width: 57.21px;
+height: 23px;
+left: calc(50% - 57.21px/2 - 425.4px);
+top: 39px;
+font-family: 'Roboto', sans-serif;
+
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+
+color: #3C2313;
+}
+#Dog{
+    position: absolute;
+width: 96.35px;
+height: 23px;
+left: calc(50% - 96.35px/2 - 356.82px);
+top: 39px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
 }
