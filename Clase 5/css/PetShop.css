@@ -94,7 +94,7 @@ left: calc(50% - 57.21px/2 - 425.4px);
 top: 39px;
 font-family: 'Roboto', sans-serif;
 
-font-style: normal;
+font-style: bold;
 font-weight: 700;
 font-size: 20px;
 line-height: 23px;
@@ -109,10 +109,156 @@ left: calc(50% - 96.35px/2 - 356.82px);
 top: 39px;
 
 font-family: 'Roboto',sans-serif;
-font-style: normal;
+font-style: bold;
 font-weight: 700;
 font-size: 20px;
 line-height: 23px;
+
+color: #FFFFFF;
+}
+
+
+#Categorias{
+    position: absolute;
+width: 64px;
+height: 14px;
+left: calc(50% - 64px/2 + 177px);
+top: 44px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+
+color: #FFFFFF;
+}
+#Pets{
+    position: absolute;
+width: 27px;
+height: 14px;
+left: calc(50% - 27px/2 + 258.5px);
+top: 44px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+
+color: #FFFFFF;
+
+}
+#Nosotros{
+    position: absolute;
+width: 54px;
+height: 15px;
+left: calc(50% - 54px/2 + 335px);
+top: 43px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+
+color: #FFFFFF;
+
+}
+#Contactanos{
+    position: absolute;
+width: 74px;
+height: 14px;
+left: calc(50% - 74px/2 + 435px);
+top: 44px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400px;
+font-size: 13px;
+line-height: 15px;
+
+
+color: #FFFFFF;
+}
+#Fondo{
+    position: absolute;
+width: 1025px;
+height: 409px;
+left: calc(50% - 1025px/2 + 0.5px);
+top: 81px;
+
+background: url(bowl-and-pet-daities-on-green-background.jpg);
+}
+#fondoblanco{
+    position: absolute;
+    width: 365px;
+    height: 54px;
+    left: 648px;
+    top: 237px;
+    
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+#Esunplacer{
+    position: absolute;
+width: 345px;
+height: 35px;
+left: 658px;
+top: 246px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight:bold;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #3C2313;
+}
+#Comede{
+    position: absolute;
+width: 190px;
+height: 19px;
+left: 740px;
+top: 303px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+
+color: #3C2313;
+}
+#cuadronaranja{
+    position: absolute;
+width: 141px;
+height: 49px;
+left: 767px;
+top: 334px;
+
+background: #F0A83E;
+border-radius: 5px;
+}
+#Comederos{
+    position: absolute;
+width: 95px;
+height: 19px;
+left: 790px;
+top: 349px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
 
 color: #FFFFFF;
 }
