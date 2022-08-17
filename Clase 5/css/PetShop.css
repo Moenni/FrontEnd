@@ -244,7 +244,8 @@ top: 334px;
 background: #F0A83E;
 border-radius: 5px;
 }
-#Comederos{
+
+#Comederos1{
     position: absolute;
 width: 95px;
 height: 19px;
@@ -261,4 +262,240 @@ line-height: 19px;
 text-align: center;
 
 color: #FFFFFF;
+}
+#Productos{
+    position: absolute;
+width: 406px;
+height: 47px;
+left: 309px;
+top: 586px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: bolder;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #3C2313;
+
+}
+#Comederos2{
+    position: absolute;
+width: 78px;
+height: 18px;
+left: 380px;
+top: 653px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #666666;
+}
+#Guion1{
+    position: absolute;
+width: 5px;
+height: 18px;
+left: 471px;
+top: 653px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #666666;
+
+}
+#Accesorios{
+    position: absolute;
+width: 75px;
+height: 18px;
+left: 489px;
+top: 653px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #666666;
+}
+#Guion2{
+    position: absolute;
+width: 5px;
+height: 18px;
+left: 577px;
+top: 653px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #666666;
+
+}
+#Comida{
+    position: absolute;
+width: 52px;
+height: 18px;
+left: 595px;
+top: 653px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #666666;
+}
+.churrasco{
+    text-align : center;
+}
+#churrasquito{
+    position: absolute;
+width: 265px;
+height: 268.86px;
+left: 95px;
+top: 720px;
+display:block;
+margin:0px auto;
+
+background: url(hummingbird-vector-graphics.png);
+
+}
+#JuegueteChurrasquito{
+    
+position: absolute;
+width: 160.54px;
+height: 19.64px;
+left: 146.68px;
+top: 988.86px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 18px;
+
+color: #3C2313;
+
+}
+#PrecioJugueteChurrasquito{
+    position: absolute;
+width: 38.49px;
+height: 19.64px;
+left: 208.26px;
+top: 1006.92px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #F0A83E;
+
+}
+#Comederos3{
+align-items: center;
+position: absolute;
+width: 262.03px;
+height: 266.86px;
+left: 381.97px;
+top: 720px;
+display:block;
+margin:0px auto;
+background: url(mug-the-best-is-yet-to-come.png);
+}
+#ComederoPerro{
+    position: absolute;
+width: 159.97px;
+height: 19.64px;
+left: 440.41px;
+top: 986.86px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 18px;
+
+color: #3C2313;
+
+}
+#PrecioComedero{
+    position: absolute;
+width: 39.15px;
+height: 19.64px;
+left: 500.81px;
+top: 1004.91px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #F0A83E;
+
+}
+#Huesito{
+    position: absolute;
+width: 265px;
+height: 268.86px;
+left: 664px;
+top: 720px;
+display:block;
+margin:0px auto;
+background: url(hummingbird-printed-t-shirt.png);
+}
+#JuegueteHuesito{
+    position: absolute;
+width: 112.37px;
+height: 18.97px;
+left: 739.93px;
+top: 988.86px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight:bold;
+font-size: 15px;
+line-height: 18px;
+
+color: #3C2313;
+}
+#PrecioJugueteHuesito{
+    position: absolute;
+width: 34.61px;
+height: 18.06px;
+left: 779.41px;
+top: 1006.92px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #F0A83E;
 }
