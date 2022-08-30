@@ -499,3 +499,29 @@ line-height: 18px;
 
 color: #F0A83E;
 }
+#Contac{
+    position: absolute;
+width: 143px;
+height: 29px;
+left: calc(50% - 143px/2 + 7.5px);
+top: calc(50% - 29px/2 + 221px);
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 29px;
+
+color: #3C2313;
+
+}
+#rectanguloregro1{
+    position: absolute;
+width: 340px;
+height: 40px;
+left: calc(50% - 340px/2 + 1px);
+top: calc(50% - 40px/2 + 275.5px);
+
+background: #3C2313;
+border-radius: 15px;
+}
