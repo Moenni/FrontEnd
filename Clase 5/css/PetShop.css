@@ -505,9 +505,9 @@ color: #F0A83E;
 
 }
 footer{
-    position: relative;
+    position:relative;
     left: 600px;
-    top: 1200px;
+    top: 1100px;
    
 }
 #Contactanos2{
@@ -524,8 +524,40 @@ footer{
     
     color: #3C2313;
 }
-
-
-
-
+#Listado{
+    position:relative;
+    left:-100px;
+    top: 75px;
 }
+#NombreApellido{
+    position:relative;
+   
+    
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 11px;
+}  
+
+#Correo{
+    position: relative;
+    
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 11px;
+}
+#Teléfono{
+    position: relative;
+ 
+
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 11px;
+}
+
