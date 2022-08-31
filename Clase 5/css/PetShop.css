@@ -505,6 +505,8 @@ color: #F0A83E;
 
 }
 footer{
+    display: flex;
+    flex-wrap: wrap;
     position:relative;
     left: 600px;
     top: 1100px;
