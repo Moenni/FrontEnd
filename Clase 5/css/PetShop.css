@@ -527,6 +527,8 @@ footer{
     color: #3C2313;
 }
 #Listado{
+  /* display: flex;
+  flex-wrap: wrap;*/
     position:relative;
     left:-100px;
     top: 75px;
