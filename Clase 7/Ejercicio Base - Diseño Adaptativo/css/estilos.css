@@ -185,6 +185,14 @@ footer ul {
 /*** Responsive */
 @media(max-width:768px){
     /*tablets*/
+    #card-section>div {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: center;
+    }
+ 
+  
 
 }
 @media(max-width:460px){
