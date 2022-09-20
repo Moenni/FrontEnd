@@ -67,17 +67,23 @@
     <span id="Contactanos2">Contáctanos</span>
 
     <div id="Listado">
-        <span id="NombreApellido">Nombre y Apellido</span>
+        <input text="Nombre" name="NombreApellido" placeholder="Nombre y Apellido"></input>
         <br>
         <br>
-        <span id="Correo">Ingresá a tu correo electrónico</span>
+        <input type="email" name ="Correo" placeholder="Ingresá tu correo electrónico">
         <br>
         <br>    
-        <span id="Teléfono">Télefono</span>
+        <input type="tel" name="Teléfono" placeholder="Teléfono">
         <br>
+        <input type="reset" value="Resetear"> <input type="button" value="Enviar">
         <br>
     </div>
-      
+    <div>
+      <form action="Registro" method="POST">
+         <input type="email" name="email" placeholder="Ingresá tu correo electronico">
+         <input type="button" value="Suscribirme">   
+      </form>
+    </div>
 </footer>        
 </body>
 </html>
