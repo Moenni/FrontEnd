@@ -1,0 +1,18 @@
+header
+    margin-bottom: 2em
+    nav
+        ul
+            display: flex
+            list-style: none
+            li
+                a
+                    padding:1.5rem
+                    color:$color-secondary
+                    text-decoration: none
+                    margin-right: 1.5em
+                    background: $color-primary
+                    //dos maneras de utilizar los mixin
+                    @include pepito2($color-back:red,$color-sombra:blue,$color-font:salmon)
+                    +my_border_radius(5%)
+                    &:hover
+                        color:salmon

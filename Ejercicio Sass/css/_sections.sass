@@ -1,0 +1,26 @@
+section
+    .article1
+        padding: 1.5em
+        background: ddd
+        margin-bottom: 1.5em
+        box-shadow: 5px 5px 2px #000
+        h2
+            color: blue
+    .article2
+        padding: 1.5em
+        background: #fff
+        margin-bottom: 1.5em
+        box-shadow: 5px 5px 2px #000
+        h2
+            color: $color-primary
+        .message
+            @extends %message-shared
+        .success
+            @extends %message-shared
+            color: green
+        .error
+            @extends %message-shared
+            color: red
+        .warning
+            @extends %message-shared
+            color: yellow
