@@ -4,7 +4,7 @@ if (tema) {
   document.querySelector("body").classList.add("dark");
 }
 
-/* const btn = document.querySelector(".btn");
+ const btn = document.querySelector(".btn");
 const body = document.querySelector("body");
 
 function darkMode() {
@@ -15,4 +15,4 @@ function darkMode() {
   }
   body.classList.toggle("dark");
 }
- */
+ 
