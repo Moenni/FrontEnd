@@ -25,4 +25,5 @@ display.style.color="red";
 inputText.addEventListener("keyup",function(){
     display.style.color="black";
     } )
-    
+    //cuando hagamos click 
+
