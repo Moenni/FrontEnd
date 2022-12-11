@@ -16,7 +16,13 @@ window.addEventListener("load",function(){
     })
 })
 
-
+window.addEventListener("load",function(){
+    let logoYoutube = document.querySelector(".logo")
+    
+    logoYoutube.addEventListener("click", function(){
+        alert("No carga el logo Youtube")
+    })
+})
 //2- Agregar a la imagen, el atributo "src" con el valor "https://www.youtube.com/img/desktop/yt_1200.png"
 
 
