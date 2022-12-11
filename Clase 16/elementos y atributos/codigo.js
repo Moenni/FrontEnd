@@ -9,7 +9,7 @@ window.addEventListener("load",function(){
     })
     }
 })
-/*al presionar una tecla salta una alerta */
+/*al presionar una tecla Enter ,salta una alerta */
 window.addEventListener("keypress",function(e){
   if(e.key=="Enter"){
     alert("Ey! que tocas enter?");
@@ -34,6 +34,7 @@ window.addEventListener("load",function(){
         alert("No carga el logo Youtube")
     })
 })
+
 //2- Agregar a la imagen, el atributo "src" con el valor "https://www.youtube.com/img/desktop/yt_1200.png"
 
 
