@@ -7,9 +7,11 @@ let btnbajar = qs(".bajar");
 let btnsubir = qs(".subir");
 let display = qs("#display");
 let inputText= qs("#prueba");
-let conteo= qs(".conteo");
-let cronometro= qs(".cronometro");
-let clear = qs(".clear");
+let btnconteo= qs(".conteo");
+let btncronometro= qs(".cronometro");
+let btnclear = qs(".clear");
+
+
 //solo en la resta se pude pone -=1
 btnbajar.addEventListener("click", function(){
     resultado.innerText-=1;
@@ -26,4 +28,10 @@ inputText.addEventListener("keyup",function(){
     display.style.color="black";
     } )
     //cuando hagamos click 
+
+    btnconteo.addEventListener("click",function(){
+      setTimeout(function(){
+        alert("pasaron 5 segundos");
+      },5000);
+    });
 
