@@ -67,4 +67,5 @@ fetch("https://reqres.in/api/users",{
     .then(function(user){
         console.log(user);
 });
+formulario.reset();
 })
